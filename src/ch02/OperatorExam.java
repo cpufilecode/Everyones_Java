@@ -9,5 +9,12 @@ public class OperatorExam {
         int i5 = i3++;
         System.out.println(i5);
         System.out.println(i3);
+
+        int i = 5;
+        int j = 2;
+        System.out.println(i+j);
+        System.out.println(i-j);
+        System.out.println(i*j);
+        System.out.println(i/j);
     }
 }

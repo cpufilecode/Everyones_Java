@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b20f80-6a19-4c11-b9b9-133d0b251e23" name="변경" comment="upload">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch02/OperatorExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch02/OperatorExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -242,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711292084871</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711292170094</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1711292170094</updated>
+    </task>
+    <task id="LOCAL-00024" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711292172854</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1711292172854</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

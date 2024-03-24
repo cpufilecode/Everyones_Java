@@ -5,8 +5,8 @@ public class OperatorExam {
         int i1 = -5;
         int i2 = +i1;
         int i3 = -i1;
-        System.out.println(i1);
-        System.out.println(i2);
+        int i4 = ++i3;
         System.out.println(i3);
+        System.out.println(i4);
     }
 }

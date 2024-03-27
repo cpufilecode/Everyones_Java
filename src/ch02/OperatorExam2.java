@@ -11,5 +11,9 @@ public class OperatorExam2 {
         System.out.println(i<=j);
         System.out.println(i>j);
         System.out.println(i>=j);
+
+        i+=10;
+        System.out.println(i);
+        System.out.println(i-=5);
     }
 }

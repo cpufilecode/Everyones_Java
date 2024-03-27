@@ -37,20 +37,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;애플리케이션.ConstantExam.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OperatorExam.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.OperatorExam2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.PrimitiveDataTypeExam.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.VariableExam.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "애플리케이션.ConstantExam.executor": "Run",
+    "애플리케이션.HelloWorld.executor": "Run",
+    "애플리케이션.OperatorExam.executor": "Run",
+    "애플리케이션.OperatorExam2.executor": "Run",
+    "애플리케이션.OperatorExam3.executor": "Run",
+    "애플리케이션.PrimitiveDataTypeExam.executor": "Run",
+    "애플리케이션.VariableExam.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -371,7 +372,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711544528590</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711544597212</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1711544597212</updated>
+    </task>
+    <task id="LOCAL-00040" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711544601820</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1711544601820</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

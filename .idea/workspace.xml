@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b20f80-6a19-4c11-b9b9-133d0b251e23" name="변경" comment="upload">
-      <change afterPath="$PROJECT_DIR$/src/ch03/DoWhileExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/ForExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "kotlin-language-version-configured": "true",
     "애플리케이션.ConstantExam.executor": "Run",
     "애플리케이션.DoWhileExam.executor": "Run",
+    "애플리케이션.ForExam.executor": "Run",
     "애플리케이션.HelloWorld.executor": "Run",
     "애플리케이션.IfExam.executor": "Run",
     "애플리케이션.LogicalOperatorExam.executor": "Run",
@@ -73,14 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702824176412</updated>
-    </task>
-    <task id="LOCAL-00001" summary="upload">
-      <option name="closed" value="true" />
-      <created>1702824885292</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1702824885292</updated>
     </task>
     <task id="LOCAL-00002" summary="upload">
       <option name="closed" value="true" />
@@ -466,7 +459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711597196564</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711598668736</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1711598668742</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

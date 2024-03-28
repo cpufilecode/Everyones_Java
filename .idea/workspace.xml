@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b20f80-6a19-4c11-b9b9-133d0b251e23" name="변경" comment="upload">
+      <change afterPath="$PROJECT_DIR$/src/ch03/WhileExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/SwitchExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/SwitchExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,8 @@
     "애플리케이션.PrimitiveDataTypeExam.executor": "Run",
     "애플리케이션.SwitchExam.executor": "Run",
     "애플리케이션.TernaryExam.executor": "Run",
-    "애플리케이션.VariableExam.executor": "Run"
+    "애플리케이션.VariableExam.executor": "Run",
+    "애플리케이션.WhileExam.executor": "Run"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -440,7 +441,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711588772664</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711589508488</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1711589508488</updated>
+    </task>
+    <task id="LOCAL-00048" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711589512984</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1711589512984</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

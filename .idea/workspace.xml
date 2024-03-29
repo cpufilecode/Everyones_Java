@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b20f80-6a19-4c11-b9b9-133d0b251e23" name="변경" comment="upload">
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/AccessObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/AccessObjExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/BusExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/DuckExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass07/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass07/TruckExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass07/Van.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass07/VanExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Javaclass07/BusExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Javaclass07/BusExam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Javaclass07/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Javaclass07/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +87,8 @@
     "애플리케이션.StringMethodExam.executor": "Run",
     "애플리케이션.SwitchExam.executor": "Run",
     "애플리케이션.TernaryExam.executor": "Run",
+    "애플리케이션.TruckExam.executor": "Run",
+    "애플리케이션.VanExam.executor": "Run",
     "애플리케이션.VariableExam.executor": "Run",
     "애플리케이션.WhileExam.executor": "Run"
   }
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702824176412</updated>
-    </task>
-    <task id="LOCAL-00014" summary="upload">
-      <option name="closed" value="true" />
-      <created>1711205375985</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1711205375985</updated>
     </task>
     <task id="LOCAL-00015" summary="upload">
       <option name="closed" value="true" />
@@ -506,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711700072060</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711716602704</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1711716602704</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

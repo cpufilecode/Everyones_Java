@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b20f80-6a19-4c11-b9b9-133d0b251e23" name="변경" comment="upload">
-      <change afterPath="$PROJECT_DIR$/src/Javaclass05/StringMethodExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass06/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass06/CarExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass06/CarExam3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass06/MethodOverloadExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Javaclass06/MyClass2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +72,7 @@
     "애플리케이션.HelloWorld.executor": "Run",
     "애플리케이션.IfExam.executor": "Run",
     "애플리케이션.LogicalOperatorExam.executor": "Run",
+    "애플리케이션.MethodOverloadExam.executor": "Run",
     "애플리케이션.MyClassExam.executor": "Run",
     "애플리케이션.OperatorExam.executor": "Run",
     "애플리케이션.OperatorExam2.executor": "Run",
@@ -82,6 +87,11 @@
     "애플리케이션.WhileExam.executor": "Run"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Javaclass06" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,14 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702824176412</updated>
-    </task>
-    <task id="LOCAL-00012" summary="upload">
-      <option name="closed" value="true" />
-      <created>1709305198612</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1709305198612</updated>
     </task>
     <task id="LOCAL-00013" summary="upload">
       <option name="closed" value="true" />
@@ -490,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711693797055</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711695753457</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1711695753458</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

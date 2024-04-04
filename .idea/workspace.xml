@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b20f80-6a19-4c11-b9b9-133d0b251e23" name="변경" comment="upload">
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/TruckExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/Van.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Javaclass07/VanExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Javaclass07/BusExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Javaclass07/BusExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Javaclass07/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Javaclass07/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,43 +50,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "애플리케이션.AccessObjExam.executor": "Run",
-    "애플리케이션.ArrayExam.executor": "Run",
-    "애플리케이션.ArrayExam2.executor": "Run",
-    "애플리케이션.ArrayWithFor.executor": "Run",
-    "애플리케이션.BusExam.executor": "Run",
-    "애플리케이션.CarExam.executor": "Run",
-    "애플리케이션.ConstantExam.executor": "Run",
-    "애플리케이션.DoWhileExam.executor": "Run",
-    "애플리케이션.DuckExam.executor": "Run",
-    "애플리케이션.ForEachExam.executor": "Run",
-    "애플리케이션.ForExam.executor": "Run",
-    "애플리케이션.HelloWorld.executor": "Run",
-    "애플리케이션.IfExam.executor": "Run",
-    "애플리케이션.LogicalOperatorExam.executor": "Run",
-    "애플리케이션.MethodOverloadExam.executor": "Run",
-    "애플리케이션.MyClassExam.executor": "Run",
-    "애플리케이션.OperatorExam.executor": "Run",
-    "애플리케이션.OperatorExam2.executor": "Run",
-    "애플리케이션.OperatorExam3.executor": "Run",
-    "애플리케이션.PrimitiveDataTypeExam.executor": "Run",
-    "애플리케이션.SongTest.executor": "Run",
-    "애플리케이션.StringExam.executor": "Run",
-    "애플리케이션.StringMethodExam.executor": "Run",
-    "애플리케이션.SwitchExam.executor": "Run",
-    "애플리케이션.TernaryExam.executor": "Run",
-    "애플리케이션.TruckExam.executor": "Run",
-    "애플리케이션.VanExam.executor": "Run",
-    "애플리케이션.VariableExam.executor": "Run",
-    "애플리케이션.WhileExam.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;애플리케이션.AccessObjExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ArrayExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ArrayExam2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ArrayWithFor.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.BusExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CarExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ConstantExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DoWhileExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DuckExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ForEachExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ForExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.IfExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.LogicalOperatorExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MethodOverloadExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MyClassExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OperatorExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OperatorExam2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.OperatorExam3.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PrimitiveDataTypeExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SongTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringMethodExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SwitchExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TernaryExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TruckExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.VanExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.VariableExam.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.WhileExam.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Javaclass06" />
@@ -113,14 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702824176412</updated>
-    </task>
-    <task id="LOCAL-00015" summary="upload">
-      <option name="closed" value="true" />
-      <created>1711277243202</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1711277243202</updated>
     </task>
     <task id="LOCAL-00016" summary="upload">
       <option name="closed" value="true" />
@@ -506,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711716602704</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="upload">
+      <option name="closed" value="true" />
+      <created>1711724732872</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1711724732872</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
